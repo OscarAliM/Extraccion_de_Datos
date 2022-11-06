@@ -1,0 +1,17 @@
+continent,code,name,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+North America,AIA,Anguilla,Caribbean,96.0,,8000,76.1,63.2,,Anguilla,Dependent Territory of the uK,Elisabeth II,62.0,AI
+North America,BMu,Bermuda,North America,53.0,,65000,76.9,2328.0,2190.0,Bermuda,Dependent Territory of the uK,Elisabeth II,191.0,BM
+Antarctica,BVT,Bouvet Island,Antarctica,59.0,,0,,0.0,,Bouvetoya,Dependent Territory of Norway,Harald V,,BV
+Oceania,CCK,Cocos (Keeling) Islands,Australia and New Zealand,14.0,,600,,0.0,,Cocos (Keeling) Islands,Territory of Australia,Elisabeth II,2317.0,CC
+Europe,GIB,Gibraltar,Southern Europe,6.0,,25000,79.0,258.0,,Gibraltar,Dependent Territory of the uK,Elisabeth II,915.0,GI
+Africa,IOT,British Indian Ocean Territory,Eastern Africa,78.0,,0,,0.0,,British Indian Ocean Territory,Dependent Territory of the uK,Elisabeth II,,IO
+Asia,MAC,Macao,Eastern Asia,18.0,,473000,81.6,5749.0,5940.0,Macau/Aomen,Special Administrative Region of China,Jiang Zemin,2454.0,MO
+Europe,MCO,Monaco,Western Europe,1.5,1861.0,34000,78.8,776.0,,Monaco,Constitutional Monarchy,Rainier III,2695.0,MC
+Oceania,NFK,Norfolk Island,Australia and New Zealand,36.0,,2000,,0.0,,Norfolk Island,Territory of Australia,Elisabeth II,2806.0,NF
+Oceania,NRu,Nauru,Micronesia,21.0,1968.0,12000,60.8,197.0,,Naoero/Nauru,Republic,Bernard Dowiyogo,2728.0,NR
+Oceania,PCN,Pitcairn,Polynesia,49.0,,50,,0.0,,Pitcairn,Dependent Territory of the uK,Elisabeth II,2912.0,PN
+Europe,SMR,San Marino,Southern Europe,61.0,885.0,27000,81.1,510.0,,San Marino,Republic,,3171.0,SM
+Oceania,TKL,Tokelau,Polynesia,12.0,,2000,,0.0,,Tokelau,Nonmetropolitan Territory of New Zealand,Elisabeth II,3333.0,TK
+Oceania,TuV,Tuvalu,Polynesia,26.0,1978.0,12000,66.3,6.0,,Tuvalu,Constitutional Monarchy,Elisabeth II,3424.0,TV
+Oceania,uMI,united States Minor Outlying Islands,Micronesia/Caribbean,16.0,,0,,0.0,,united States Minor Outlying Islands,Dependent Territory of the uS,George W. Bush,,uM
+Europe,VAT,Holy See (Vatican City State),Southern Europe,0.4,1929.0,1000,,9.0,,Santa Sede/Citta del Vaticano,Independent Church State,Johannes Paavali II,3538.0,VA
